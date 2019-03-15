@@ -32,12 +32,13 @@
      - MPM 2 (Sally)
      - TACE (Sally)
      - Vancomycin (Chrissy & Ellen)
-    - Report back to the sender along with randomization information
+     - Report back to the sender along with randomization information
     
   **Data Query Request**
-   - SSMS (Sql Server Management Studio)
+   - Ask Pete Gabriel for access into the database
+   - Download and use SSMS (Sql Server Management Studio)
    - Login with your info
-   - ORQID Datamart
+   - Navigate to ORQID Datamart
    
    
    
