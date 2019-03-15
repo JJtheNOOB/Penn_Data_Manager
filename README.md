@@ -1,7 +1,7 @@
 # Radation Oncology Data Manager
 # Work Procedure
 
-Monthly Upgrade Procedure 
+**Monthly Upgrade Procedure** 
  - REDCap Study Level Database update (Anytime during the month)
     - Log into REDCap & PennCTMS
     - Follow studies in the REDCap Database and update the study status, study accurals
@@ -25,7 +25,7 @@ Monthly Upgrade Procedure
       - Get information from REDCap
       - Update monthly (do not accumulate data)
       
-  Randomizations
+  **Randomizations**
    - Folder located at H drive -> Randomization
    - Current:
      - Bladder RadVax (Former Dana)
@@ -34,7 +34,7 @@ Monthly Upgrade Procedure
      - Vancomycin (Chrissy & Ellen)
     - Report back to the sender along with randomization information
     
-  Data Query Request
+  **Data Query Request**
    - SSMS (Sql Server Management Studio)
    - Login with your info
    - ORQID Datamart
