@@ -40,7 +40,10 @@
    - Login with your info
    - Navigate to ORQID Datamart
    
-   
+  **Quarterly Based Check**
+  - Error Testing for non-retro open studies (guidelines referening to Susan)
+   - Check for missing values, make sure it is compliance with NCI standard
+   - Inform Susan / team to fix the issue
    
    
    
